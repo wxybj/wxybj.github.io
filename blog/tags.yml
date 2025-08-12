@@ -1,7 +1,14 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+# 这里是标签页的配置文件
+# 您可以在这里设置标签的名称、链接、描述等信息
+# 标签页的配置
+#tags:
+  # 标签页的标题
+  # title: 标签#
+  # 标签页的描述
+教程:
+  label: 教程
+  permalink: /jiaocheng
+  description: 实用教程
 
 hello:
   label: Hello
